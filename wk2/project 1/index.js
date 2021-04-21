@@ -1,3 +1,8 @@
+var newnav= document.createElement("p")
+newP.textContent= "Welcome back to my JS site!"
+document.body.appendChild(newP)
+
+
 var newP= document.createElement("p")
 newP.textContent= "Welcome back to my JS site!"
 document.body.appendChild(newP)
@@ -20,10 +25,8 @@ newul.appendChild(newli2)
         
 var newli3= document.createElement("li")
 newli3.textContent= "Welcome back to my JS site!"
-newul.appendChild(newli3)                     
- 
-        
+newli3.appendChild(newli3)
 
-
-    
-
+var newfooter= document.createElement("p")
+newfooter.textContent= "Welcome back to my JS site!"
+document.body.appendChild(newP)            
