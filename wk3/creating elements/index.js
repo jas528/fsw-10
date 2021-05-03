@@ -1,6 +1,6 @@
 var heading = document.createElement('h1')
 document.body.append(heading) 
-heading.textContent ="Welcome to my JS Site"
+heading.textContent ="Hello World"
 
 var paragraph = document.createElement('p')
 document.body.append(paragraph) 
@@ -12,12 +12,49 @@ ol.textContent ="Welcome to my JS Site"
 
 var li = document.createElement('li')
 document.body.append(li) 
-li.textContent ="eggs,milk butter"
+li.textContent ="Hello World"
 
 var li = document.createElement('li')
 document.body.append(li) 
-li.textContent ="water"
+li.textContent ="Hello World"
 
 var li = document.createElement('li')
 document.body.append(li) 
-li.textContent ="soap"
+li.textContent ="Hello World"
+
+var li = document.createElement('li')
+document.body.append(li) 
+li.textContent ="Hello World"
+
+var li = document.createElement('li')
+document.body.append(li) 
+li.textContent ="Hello World"
+
+var li = document.createElement('li')
+document.body.append(li) 
+li.textContent ="Hello World"
+
+var li = document.createElement('li')
+document.body.append(li) 
+li.textContent ="Hello World"
+
+var li = document.createElement('li')
+document.body.append(li) 
+li.textContent ="Hello World"
+
+var li = document.createElement('li')
+document.body.append(li) 
+li.textContent ="Hello World"
+
+var li = document.createElement('li')
+document.body.append(li) 
+li.textContent ="larry"
+
+var li = document.createElement('li')
+document.body.append(li) 
+li.textContent ="steven, Hello"
+
+
+var li = document.createElement('li')
+document.body.append(li) 
+li.textContent =['Joe','rick',"steven", 'nate'];
