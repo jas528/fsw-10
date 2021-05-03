@@ -16,7 +16,7 @@ li.textContent ="Hello World"
 
 var li = document.createElement('li')
 document.body.append(li) 
-li.textContent ="Hello World"
+li.textContent ="Hello world"
 
 var li = document.createElement('li')
 document.body.append(li) 
@@ -40,21 +40,21 @@ li.textContent ="Hello World"
 
 var li = document.createElement('li')
 document.body.append(li) 
-li.textContent ="Hello World"
+li.textContent ="H5"
 
 var li = document.createElement('li')
 document.body.append(li) 
-li.textContent ="Hello World"
+li.textContent ="H4"
 
 var li = document.createElement('li')
 document.body.append(li) 
-li.textContent ="larry"
+li.textContent ="h3"
 
 var li = document.createElement('li')
 document.body.append(li) 
-li.textContent ="steven, Hello"
+li.textContent ="h2, Hello"
 
 
 var li = document.createElement('li')
 document.body.append(li) 
-li.textContent =['Joe','rick',"steven", 'nate'];
+li.textContent =['h1','rick',"steven", 'nate'];
