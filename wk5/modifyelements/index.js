@@ -10,3 +10,11 @@ console.log(inputElement.value)
 
 const inputElements1=document.getElementById("Submit")
 console.log(inputElement.value)
+
+var password1=document.getElementById
+password2=document.getElementById
+
+function validatePassword ({
+if (password1.value 1= password2.value) {
+    password2.setCustomValidity("Haved you shopped with us before?")
+}
