@@ -1,0 +1,22 @@
+*{
+background-color: slateblue;
+}
+h1{
+text-align: center;
+}
+span{
+    color: tan;
+}
+.container{
+    display: flexbox;
+justify-content: center;
+}
+
+input{
+    background-color: thistle;
+}
+#addToDo{
+
+    background-color: white;
+    color:navy;
+}
